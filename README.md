@@ -3,7 +3,8 @@
 This is a Python PyGame-based GUI for this kind of oscilloscope board:
 ![alt text](ADCQ1706.jpg)
 
-The original software only has support for Raspberry Pi, and limited to capturing data stored as image files. This software will display the information live:
+The original software only has support for Raspberry Pi, and limited to capturing data stored as image files. This software will display the information live.
+Screenshot:
 ![alt text](oscilloscope.png)
 
 It's controlled with the following key presses:
